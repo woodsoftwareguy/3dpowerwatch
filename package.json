@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "rpi-gpio": "^2.1.7"
+  }
+}
