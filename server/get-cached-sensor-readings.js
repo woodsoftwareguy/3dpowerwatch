@@ -1,11 +1,10 @@
-    const getSensorReadings = require('./get-sensor-
-    readings')
+    const getSensorReadings = require('./get-sensor-readings')
 
     /*
     Instantiate the cache. In this case its a simple variable 
     stored in local memory
     */
-    const cache = 
+    const cache = { 
       pb_power: null,
       ulti_power: null
     }
